@@ -1,0 +1,4 @@
+#Fri Apr 14 11:08:23 CST 2017
+eclipse.preferences.version=1
+validator.Checked=WebRoot/js/JS-LIB/jtopo-0.4.8-min.js,WebRoot/js/JS-LIB/jtopo-0.4.8-min-test.js,WebRoot/js/JS-LIB/jtopo-format.js,WebRoot/js/JS-LIB/jquery-1.11.2.min.js,WebRoot/js/JS-LIB/jtopo-min.js
+validator.Unchecked=
